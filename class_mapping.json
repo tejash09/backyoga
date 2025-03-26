@@ -1,0 +1,38 @@
+{
+  "int_to_label": {
+    "0": "chair_pose",
+    "1": "dolphin_plank_pose",
+    "2": "downward-facing_dog_pose",
+    "3": "fish_pose",
+    "4": "goddess_pose",
+    "5": "locust_pose",
+    "6": "lord_of_the_dance_pose",
+    "7": "low_lunge_pose",
+    "8": "seated_forward_bend_pose",
+    "9": "side_plank_pose",
+    "10": "staff_pose",
+    "11": "tree_pose",
+    "12": "warrior_1_pose",
+    "13": "warrior_2_pose",
+    "14": "warrior_3_pose",
+    "15": "wide-angle_seated_forward_bend_pose"
+  },
+  "label_to_int": {
+    "chair_pose": "0",
+    "dolphin_plank_pose": "1",
+    "downward-facing_dog_pose": "2",
+    "fish_pose": "3",
+    "goddess_pose": "4",
+    "locust_pose": "5",
+    "lord_of_the_dance_pose": "6",
+    "low_lunge_pose": "7",
+    "seated_forward_bend_pose": "8",
+    "side_plank_pose": "9",
+    "staff_pose": "10",
+    "tree_pose": "11",
+    "warrior_1_pose": "12",
+    "warrior_2_pose": "13",
+    "warrior_3_pose": "14",
+    "wide-angle_seated_forward_bend_pose": "15"
+  }
+}
